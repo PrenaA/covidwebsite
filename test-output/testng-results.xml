@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T21:29:10 EDT" name="Default suite" finished-at="2023-04-12T21:29:21 EDT" duration-ms="11718">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T21:29:10 EDT" name="Default test" finished-at="2023-04-12T21:29:21 EDT" duration-ms="11718">
+      <class name="PageObjectModelTest.LaunchOrangeHire">
+        <test-method is-config="true" signature="launchHireApplication()[pri:0, instance:PageObjectModelTest.LaunchOrangeHire@75329a49]" started-at="2023-04-12T21:29:10 EDT" name="launchHireApplication" finished-at="2023-04-12T21:29:19 EDT" duration-ms="9509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchHireApplication -->
+        <test-method signature="launchUserInfo()[pri:0, instance:PageObjectModelTest.LaunchOrangeHire@75329a49]" started-at="2023-04-12T21:29:19 EDT" name="launchUserInfo" finished-at="2023-04-12T21:29:21 EDT" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUserInfo -->
+      </class> <!-- PageObjectModelTest.LaunchOrangeHire -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
